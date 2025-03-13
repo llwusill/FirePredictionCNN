@@ -24,7 +24,7 @@ Aşağıdaki kütüphanelerin yüklenmesi gerekmektedir:
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn opencv-python
 ```
 
-##Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 1️⃣ Google Colab veya Jupyter Notebook'ta açın
 
@@ -36,7 +36,7 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn opencv-pytho
 
 5️⃣ Sonuçları karşılaştırın ve en iyi modeli seçin
 
-##Data Set
+## Data Set
 
 Bu projede kullanılan dataseti boyutu sebebiyle proje bittikten sonra silmiştim. Aynı Data Set'i bulamasamda benzer bir Set'e aşağıdaki linkte bulabilirsiniz.
 https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset/data
