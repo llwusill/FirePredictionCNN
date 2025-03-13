@@ -25,8 +25,13 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn opencv-pytho
 ```
 
 ##Nasıl Çalıştırılır?
+
 1️⃣ Google Colab veya Jupyter Notebook'ta açın
+
 2️⃣ Veri setini yükleyin
+
 3️⃣ Ön işleme adımlarını tamamlayın (görüntü temizleme, ölçekleme vb.)
+
 4️⃣ CNN ve diğer modelleri eğitin
+
 5️⃣ Sonuçları karşılaştırın ve en iyi modeli seçin
