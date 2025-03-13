@@ -35,3 +35,8 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn opencv-pytho
 4️⃣ CNN ve diğer modelleri eğitin
 
 5️⃣ Sonuçları karşılaştırın ve en iyi modeli seçin
+
+##Data Set
+
+Bu projede kullanılan dataseti boyutu sebebiyle proje bittikten sonra silmiştim. Aynı Data Set'i bulamasamda benzer bir Set'e aşağıdaki linkte bulabilirsiniz.
+https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset/data
